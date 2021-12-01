@@ -1,0 +1,21 @@
+p {
+  padding: 10px 0px;
+}
+.divspecial {
+  width: 75%;
+}
+div.row img {
+  display: block;
+  width: 100%;
+  height: auto;
+  padding-bottom: 20px;
+}
+a {
+  text-decoration: none;
+  color: blue;
+  padding-bottom: 50px;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
